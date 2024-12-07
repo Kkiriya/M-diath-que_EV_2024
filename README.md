@@ -1,2 +1,6 @@
-# M-diath-que_EV_2024
-Projet médiathèque pour un cours
+# README
+
+## Installation
+
+- Le projet utiliser JRE v17
+- Vous devez reinstaller la librarie JavaFx
